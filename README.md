@@ -1,2 +1,2 @@
-# homework-challenge1
+# excel-challenge
 for your first homework assignment 
